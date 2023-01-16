@@ -1,15 +1,14 @@
 body, html {
     font-family: "Montserrat", sans-serif;
     background-color: cornflowerblue;
-    text-align: center;
-}
-
-  html,
-  body {
     padding: 0;
     margin: 0;
     scroll-behavior: smooth;
-  }
+}
+
+* {
+    text-align: center;
+}
   
 badge {
   background-color: red;
